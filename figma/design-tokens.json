@@ -1,0 +1,19 @@
+{
+  "name": "Novin Rai Portfolio",
+  "colors": {
+    "ink": "#15283C",
+    "inkSecondary": "#294157",
+    "brandBlue": "#235A97",
+    "brandBlueLight": "#3777B9",
+    "accentGold": "#B8884F",
+    "bodyText": "#61758A",
+    "pageBackground": "#F6F8FA",
+    "surface": "#FFFFFF",
+    "border": "#DFE6ED",
+    "surfaceMuted": "#EAF0F6"
+  },
+  "fonts": {"heading": "Manrope", "body": "DM Sans", "fallback": "Arial, sans-serif"},
+  "breakpointsPx": {"mobile": 520, "tablet": 780, "desktop": 1020},
+  "radiiPx": {"button": 8, "card": 16, "panel": 18},
+  "spacingSystemPx": [4, 8, 12, 16, 24, 32, 48, 64, 80, 100]
+}
